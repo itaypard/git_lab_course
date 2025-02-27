@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Different main branch change
+=======
+Feature improvement
+>>>>>>> feature-branch_new
+Feature improvement and main branch update
