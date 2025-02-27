@@ -1,2 +1,3 @@
 Hello, this is the main branch
 New feature added
+Updated documentation
